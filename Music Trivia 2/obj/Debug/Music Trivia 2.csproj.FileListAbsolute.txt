@@ -1,0 +1,9 @@
+C:\Users\Mike Wojo\Desktop\Projects\Music Trivia\Music Trivia w database\Music Trivia 2\Music Trivia 2\bin\Debug\Music Trivia 2.exe.config
+C:\Users\Mike Wojo\Desktop\Projects\Music Trivia\Music Trivia w database\Music Trivia 2\Music Trivia 2\bin\Debug\Music Trivia 2.exe
+C:\Users\Mike Wojo\Desktop\Projects\Music Trivia\Music Trivia w database\Music Trivia 2\Music Trivia 2\bin\Debug\Music Trivia 2.pdb
+C:\Users\Mike Wojo\Desktop\Projects\Music Trivia\Music Trivia w database\Music Trivia 2\Music Trivia 2\obj\Debug\Music Trivia 2.csprojAssemblyReference.cache
+C:\Users\Mike Wojo\Desktop\Projects\Music Trivia\Music Trivia w database\Music Trivia 2\Music Trivia 2\obj\Debug\Music Trivia 2.csproj.CoreCompileInputs.cache
+C:\Users\Mike Wojo\Desktop\Projects\Music Trivia\Music Trivia w database\Music Trivia 2\Music Trivia 2\obj\Debug\Music Trivia 2.exe
+C:\Users\Mike Wojo\Desktop\Projects\Music Trivia\Music Trivia w database\Music Trivia 2\Music Trivia 2\obj\Debug\Music Trivia 2.pdb
+C:\Users\Mike Wojo\Desktop\Projects\Music Trivia\Music Trivia w database\Music Trivia 2\Music Trivia 2\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Mike Wojo\Desktop\Projects\Music Trivia\Music Trivia w database\Music Trivia 2\Music Trivia 2\obj\Debug\Music Trivia 2.csproj.CopyComplete
